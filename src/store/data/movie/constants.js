@@ -1,0 +1,1 @@
+export const MOVIE_RESULTS_SCOPE = 'dataLayer/movie/results';

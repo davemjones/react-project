@@ -39,5 +39,5 @@ This is a movie database that allows you to search for movies based on title / g
 
 3. Using the moviedb.org API, retrieve a list of production companies for the selected movie and add display the production companies in the modal.  This task will require creating a redux action/reducer/selector.  
 
-# Submitting your Code
+# Submitting your code
 Once you've finished, push your code back to GitHub.  If you cannot push your code, zip up your code and email it to the recruiter.  There is no need to create a pull request.

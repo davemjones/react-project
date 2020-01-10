@@ -24,7 +24,7 @@ This project has a .devcontainer folder that has a DockerFile and VSCode devcont
 For the remainder of the tasks, create a branch from the master branch in the format `FirstName-LastName`
 
 ## Running the application
-`npm start`
+`npm start`<br />
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 

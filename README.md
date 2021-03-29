@@ -20,9 +20,6 @@ Clone the project to your local machine.  Install all the dependencies with npm 
 ### Using Docker in VSCode (Optional)
 This project has a .devcontainer folder that has a DockerFile and VSCode devcontainer settings.  To use this you should be using the latest version of VSCode.  See [https://code.visualstudio.com/docs/remote/containers](https://code.visualstudio.com/docs/remote/containers) for instructions on running this in a container.
 
-## Create a branch
-For the remainder of the tasks, create a branch from the master branch in the format `FirstName-LastName`
-
 ## Running the application
 `npm start`<br />
 Runs the app in the development mode.<br />

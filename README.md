@@ -35,7 +35,7 @@ This is a movie database that allows you to search for movies based on title / g
 
 2. Create a new component for movie descriptions (overview) and replace the description in the modal with the newly created component.
 
-3. Using the moviedb.org API, retrieve a list of production companies for the selected movie and add display the production companies in the modal.  This task will require creating a redux action/reducer/selector.  
+3. Using the moviedb.org API, retrieve a list of production companies for the selected movie and display the production companies in the modal.  This task will require creating a redux action/reducer/selector.  
 
 # Submitting your code
 Once you've finished, zip up your code (src folder only) and email it to the recruiter.  There is no need to create a pull request.
